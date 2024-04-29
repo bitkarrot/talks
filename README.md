@@ -9,6 +9,10 @@
 
 ## Applications referenced in talks
 
+### Alternative VPS Hosting options
+- https://gist.github.com/bitkarrot/e394556e6d11028e8af5c4d435ba230e
+
+
 ### LNBits Extensions
 
 - [Decoder](https://github.com/bitkarrot/decoder) - An LNBits Extension for decoding invoices. see [video](/LNBitsDecoderVideo.mp4)
