@@ -7,7 +7,7 @@
 - [LNBits Workshop - Jan 2024](/2024JAN_LNBitsWorkshop.pdf)
 
 
-## Applications referenced in talks
+## Referenced in talks
 
 ### Alternative VPS Hosting options
 - https://gist.github.com/bitkarrot/e394556e6d11028e8af5c4d435ba230e
