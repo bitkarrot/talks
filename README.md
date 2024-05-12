@@ -13,12 +13,13 @@
 - https://gist.github.com/bitkarrot/e394556e6d11028e8af5c4d435ba230e
 
 
-### LNBits Extensions
+### LNBits Extensions and Related Repos
 
 - [Decoder](https://github.com/bitkarrot/decoder) - An LNBits Extension for decoding invoices. see [video](/LNBitsDecoderVideo.mp4)
 
 - [Scheduler](https://github.com/bitkarrot/scheduler/) - A LNBits Extension for automating any REST API call through cronjobs. see [video](/LNBitsSchedulerVideo.mp4)
-  
+
+- [Lnbits-phoenixd](https://github.com/bitkarrot/lnbits-phoenixd/) - Run a super light, simple Lightning node (phoenixd) together with LNBits within Docker.
   
 ### Microapps
 
@@ -32,4 +33,4 @@
 
 
 ### Libraries
-- [PyLNbits](https://github.com/lightningames/pylnbits) - A python library that consumes the LNbits API and some extensions. Useful for quickly writing multi user applications. Some uses cases include AI bot or telegram bot.
+- [pylnbits](https://github.com/lightningames/pylnbits) - A python library that consumes the LNbits API and some extensions. Useful for quickly writing multi user applications. Some uses cases include AI bot or telegram bot.
