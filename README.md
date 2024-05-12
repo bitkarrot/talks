@@ -6,6 +6,11 @@
 - [Lightning Payments Overview](/2023OCT_LightningPaymentsWorkshop.pdf)
 - [LNBits Workshop - Jan 2024](/2024JAN_LNBitsWorkshop.pdf)
 
+## Related articles
+ - [Lightning Prisms with LNBits](https://bitkarrot.substack.com/p/lightning-prisms-with-lnbits)
+ - [Merchant Payment Options on lightning](https://bitkarrot.substack.com/p/elderberry-syrup-for-lightning-payments)
+ - [Bitcoin and lightning Faucets](https://bitkarrot.substack.com/p/testnet-bitcoin-and-lightning-faucets)
+
 
 ## Referenced in talks
 
