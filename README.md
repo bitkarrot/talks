@@ -36,6 +36,7 @@
 
 - [LNBits - LaiseeBot](https://github.com/bitkarrot/laiseebot/) - Experimental 2021 Gift cards for CNY Red Envelopes delivered through a telegram bot. (This app now retired)
 
+- [NpubLogin](https://github.com/bitkarrot/npublogin) - Simple nostr login examples 
 
 ### Libraries
 - [pylnbits](https://github.com/lightningames/pylnbits) - A python library that consumes the LNbits API and some extensions. Useful for quickly writing multi user applications. Some uses cases include AI bot or telegram bot.
